@@ -1,0 +1,17 @@
+Attributes 
+ if in class Student having students s1,s2,s3,s4  has common college name then put it out of constructor
+
+ Class has data and methods
+
+ data has attributes == properties
+ Methods  has functions == how a object work 
+
+ Static methods:
+ no use of self parameter and work at class level not object level 
+
+
+ main pillars of OOPS
+ ABSTRACTION  = Shows only neccessary working path
+ ENCAPSULATION = (wrapping data and function into a single unit) capsule is an object
+ INCAPSULATION
+ POLYMORPHISM
