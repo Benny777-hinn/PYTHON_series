@@ -1,0 +1,3 @@
+Hello, this is a demo file.
+This file is used for demonstrating file handling in Python.about to learn file handling.
+This file is used for demonstrating file handling in Python.
